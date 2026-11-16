@@ -45,9 +45,7 @@ window.PHYSICS_CONCEPTS = [
     takeaway: '判斷運動不能只看受力大小，還要看物體的慣性。',
     references: []
   }
-];
-
-{
+  {
   id: 'electromagnetic-induction',
   category: 'electromagnetism',
   tag: '電磁學',
@@ -75,4 +73,5 @@ window.PHYSICS_CONCEPTS = [
 
   references: []
 }
+];
 
