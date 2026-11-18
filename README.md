@@ -1,4 +1,4 @@
-# Physics Fieldnotes｜物理概念札記
+# Physics Notes｜物理概念筆記
 
 A lightweight, extensible physics concept website made for the **AGENTS.md / CLAUDE.md** class assignment. Every concept follows one reusable editorial template.
 
